@@ -16,8 +16,8 @@
 **Frontend:** React • Next.js • React • TypeScript • Tailwind CSS  
 **Backend:** Node.js • NestJS • Express • GraphQL • Python • Microservices  
 **Database:** PostgreSQL • MySQL • MongoDB • Redis   
-**Tools & Platforms**: Git, Docker, Kubernetes, AWS, Azure, Jenkins, Nginx
-**Testing**: Jest, Cypress, Selenium, Mocha, Jasmine
+**Tools & Platforms**: Git, Docker, Kubernetes, AWS, Azure, Jenkins, Nginx   
+**Testing**: Jest, Cypress, Selenium, Mocha, Jasmine   
 **Cloud:** AWS (EC2, Lambda, S3, RDS, DynamoDB) • Docker • Nginx • CI/CD  
 **AI/ML:** OpenAI • LangChain • OpenCV • RAG   
 
