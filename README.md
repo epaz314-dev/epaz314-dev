@@ -5,13 +5,13 @@ React · Next.js · TypeScript · Node.js · Python · GraphQL · AWS
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eric-paz-6852a520a">
+  <a href="https://www.linkedin.com/in/eric-paz-6852a520a" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:epaz314@outlook.com">
+  <a href="mailto:epaz314@outlook.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/epaz314-dev">
+  <a href="https://github.com/epaz314-dev" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
